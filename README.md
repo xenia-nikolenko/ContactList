@@ -3,7 +3,7 @@
 
 The test cases are designed to validate key functionalities of a contact list application hosted on https://thinking-tester-contact-list.herokuapp.com/. They cover a range of scenarios including user registration ("Sign Up"), ensuring mandatory fields are enforced, creating new contacts, handling missing mandatory information, deleting existing contacts, and editing contact details. These test cases aim to verify the accuracy of user interactions, data input validations, successful data manipulation, and proper system behavior in response to user actions such as signing up, managing contacts, and editing information.
 
-# "Sign Up" Test Case:
+### "Sign Up" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
 2. Click the "SIGN UP" button.
@@ -13,14 +13,14 @@ The test cases are designed to validate key functionalities of a contact list ap
 6. Logout from the account.
 7. Verify the user is successfully signed out.
 
-# "Cannot Sign Up Without Mandatory Fields" Test Case:
+### "Cannot Sign Up Without Mandatory Fields" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
 2. Click the "SIGN UP" button.
 3. Submit the form without filling in mandatory fields.
 4. Verify that appropriate error messages are displayed indicating missing values for mandatory fields.
 
-# "Create Contact" Test Case:
+### "Create Contact" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
 2. Log in using the previously created account.
@@ -31,7 +31,7 @@ The test cases are designed to validate key functionalities of a contact list ap
 7. Verify the creation of the new contact.
 8. Ensure all fields of the new contact display the correct information.
 
-# "Cannot Create Contact Without Mandatory Fields" Test Case:
+### "Cannot Create Contact Without Mandatory Fields" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
 2. Log in using the previously created account.
@@ -40,7 +40,7 @@ The test cases are designed to validate key functionalities of a contact list ap
 5. Submit the form without filling in mandatory fields.
 6. Verify that appropriate error messages are displayed indicating missing values for mandatory fields.
 
-# "Delete Contact" Test Case:
+### "Delete Contact" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
 2. Log in using the previously created account.
@@ -50,7 +50,7 @@ The test cases are designed to validate key functionalities of a contact list ap
 6. Click the "DELETE CONTACT" button.
 7. Confirm that the contact is successfully removed.
 
-# "Edit Contact" Test Case:
+### "Edit Contact" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
 2. Log in using the previously created account.
