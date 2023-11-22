@@ -3,6 +3,8 @@
 
 The test cases are designed to validate key functionalities of a contact list application hosted on https://thinking-tester-contact-list.herokuapp.com/. They cover a range of scenarios including user registration ("Sign Up"), ensuring mandatory fields are enforced, creating new contacts, handling missing mandatory information, deleting existing contacts, and editing contact details. These test cases aim to verify the accuracy of user interactions, data input validations, successful data manipulation, and proper system behavior in response to user actions such as signing up, managing contacts, and editing information.
 
+File ContactTest.java, contains placeholder methods for each test case.
+
 ### "Sign Up" Test Case:
 
 1. Open the site (https://thinking-tester-contact-list.herokuapp.com/).
