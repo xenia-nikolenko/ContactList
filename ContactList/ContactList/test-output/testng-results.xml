@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-02T15:58:47 GMT-06:00" name="Default suite" finished-at="2023-09-02T15:59:14 GMT-06:00" duration-ms="26551">
+    <groups>
+    </groups>
+    <test started-at="2023-09-02T15:58:47 GMT-06:00" name="Default test" finished-at="2023-09-02T15:59:14 GMT-06:00" duration-ms="26551">
+      <class name="tests.ContactTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:47 GMT-06:00" name="setUp" finished-at="2023-09-02T15:58:50 GMT-06:00" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sign_Up_Out_Test()[pri:1, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:50 GMT-06:00" name="sign_Up_Out_Test" finished-at="2023-09-02T15:58:52 GMT-06:00" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_Up_Out_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:52 GMT-06:00" name="tearDown" finished-at="2023-09-02T15:58:53 GMT-06:00" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:53 GMT-06:00" name="setUp" finished-at="2023-09-02T15:58:54 GMT-06:00" duration-ms="1344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_Contact_Test()[pri:2, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:54 GMT-06:00" name="create_Contact_Test" finished-at="2023-09-02T15:58:58 GMT-06:00" duration-ms="3867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Contact_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:58 GMT-06:00" name="tearDown" finished-at="2023-09-02T15:58:58 GMT-06:00" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:58:58 GMT-06:00" name="setUp" finished-at="2023-09-02T15:59:00 GMT-06:00" duration-ms="1519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="can_Not_Create_Without_Mandatory_Fields_Test()[pri:3, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:00 GMT-06:00" name="can_Not_Create_Without_Mandatory_Fields_Test" finished-at="2023-09-02T15:59:02 GMT-06:00" duration-ms="2468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- can_Not_Create_Without_Mandatory_Fields_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:02 GMT-06:00" name="tearDown" finished-at="2023-09-02T15:59:02 GMT-06:00" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:02 GMT-06:00" name="setUp" finished-at="2023-09-02T15:59:04 GMT-06:00" duration-ms="1597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="edit_Exist_Contact_Test()[pri:4, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:04 GMT-06:00" name="edit_Exist_Contact_Test" finished-at="2023-09-02T15:59:09 GMT-06:00" duration-ms="4883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_Exist_Contact_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:09 GMT-06:00" name="tearDown" finished-at="2023-09-02T15:59:09 GMT-06:00" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:09 GMT-06:00" name="setUp" finished-at="2023-09-02T15:59:11 GMT-06:00" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="delete_Contact_Test()[pri:5, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:11 GMT-06:00" name="delete_Contact_Test" finished-at="2023-09-02T15:59:13 GMT-06:00" duration-ms="2444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Contact_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ContactTest@5ab956d7]" started-at="2023-09-02T15:59:13 GMT-06:00" name="tearDown" finished-at="2023-09-02T15:59:14 GMT-06:00" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
